@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AstonElderkin
 - I am a computer science student at De Montfort University. I have undertaken and completed an undergraduate placement year at Oracle as an Agile Solution Engineer, in which I developed applications within the Scrum framework utilising the following languages: SQL, CSS, HTML & JavaScript. 
+- I am looking for a graduate role.
 - I have experience with the following languages:
 - Java, Python, Scala, CSS, SQL, HTML, JavaScript, PHP, 
 - 🌱 I’m currently completing a Full Stack Developer Course & developing an online portfolio/CV with these skills.
