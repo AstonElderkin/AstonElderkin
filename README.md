@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AstonElderkin
-- I am an undergraduate computer science student at De Montfort University. I have undertaken and completed an undergraduate placement year at Oracle as an Agile Solution Engineer, in which I developed applications within the Scrum framework utilising the following languages: SQL, CSS, HTML & JavaScript. 
-- My final year project will be developing a VR game in unity using C# to further expand my knopwledge of languages & tools.
+- I am a computer science graduateof De Montfort University. I have undertaken and completed an undergraduate placement year at Oracle as an Agile Solution Engineer, in which I developed applications within the Scrum framework utilising the following languages: SQL, CSS, HTML & JavaScript. 
+- I am currently a graduate trainee for Next as part of their HR Systems.
+- My final year project was developing a VR game in unity using C# to further expand my knopwledge of languages & tools.
 - I have experience with the following languages:
 - Java, Python, Scala, CSS, SQL, HTML, JavaScript & PHP.
 - 🌱 I’m currently completing a Full Stack Developer Course & developing an online portfolio/CV with these skills: 
